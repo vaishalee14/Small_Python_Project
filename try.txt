@@ -1,5 +1,0 @@
-maths;55
-english;23
-hindi;12
-science;34
-sst;89
